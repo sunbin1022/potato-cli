@@ -34,20 +34,7 @@
     }
   },
   "dependencies": {
-    "@antv/data-set": "^0.10.2",
-    "@antv/g2": "^3.5.8",
-    "@babel/core": "^7.5.5",
-    "@babel/polyfill": "^7.4.4",
-    "@babel/runtime": "^7.5.5",
-    "ant-design-vue": "^1.4.4",
-    "autoprefixer": "^9.6.1",
     "core-js": "^2.6.9",
-    "potato-ui": "^2.3.3-alpha.14",
-    "potato-utils": "^2.3.1-alpha.1",
-    "vue": "^2.6.10",
-    "vue-router": "^3.0.3",
-    "vuex": "^3.0.1",
-    "vuex-persistedstate": "^2.5.4"
   },
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.5.5",
